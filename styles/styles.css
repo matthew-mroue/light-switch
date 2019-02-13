@@ -32,7 +32,13 @@ button {
     margin-right: 25%;
     margin-top: 5px;
     outline: none;
-    position: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right:    0;
+    bottom:   0;
+    background-color: transparent;
 }
 /* cannot get button overlay .lighton & section.  removed switch text to prep for that
  */
