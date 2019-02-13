@@ -1,0 +1,31 @@
+section {
+    border-radius: 100%;
+    height: 666px;
+    width: 666px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5px;
+}
+.lightOn {
+    background-color: yellow;
+}
+.light-switch {
+    border-radius: 100%;
+    height: 666px;
+    width: 666px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5px;
+}
+button {
+    width: 50%; 
+    margin-left: 25%;
+    margin-right: 25%;
+    outline: none;
+}
