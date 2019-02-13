@@ -8,6 +8,7 @@ section {
     margin-left: 25%;
     margin-right: 25%;
     margin-top: 5px;
+    border: 1px solid black;
 }
 .lightOn {
     background-color: yellow;
@@ -24,8 +25,12 @@ section {
     margin-top: 5px;
 }
 button {
-    width: 50%; 
+    height: 666px;
+    width: 666px; 
+    border-radius: 100%;
     margin-left: 25%;
     margin-right: 25%;
+    margin-top: 5px;
     outline: none;
+    position: inherit;
 }

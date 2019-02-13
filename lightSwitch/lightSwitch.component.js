@@ -6,7 +6,7 @@ const lightSwitch = {
     ,
     template:
     `
-        <button ng-click="$ctrl.onFlip()">SWITCH</button>
+        <button ng-switch ng-click="$ctrl.onFlip()"></button>
     `,
         
 }
