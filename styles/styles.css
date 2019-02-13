@@ -34,3 +34,5 @@ button {
     outline: none;
     position: inherit;
 }
+/* cannot get button overlay .lighton & section.  removed switch text to prep for that
+ */
