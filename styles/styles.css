@@ -23,7 +23,7 @@ section {
     margin-left: 25%;
     margin-right: 25%;
     margin-top: 5px;
-    border: 1px;
+    border: 1px solid black;
 }
 button {
     height: 666px;
@@ -40,4 +40,5 @@ button {
     bottom:   0;
     top: 0;
     background-color: transparent;
+   border: none;
 }
